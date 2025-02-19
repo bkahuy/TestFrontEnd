@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    margin: 95px 0 35px 59px;
+    width: 1920px;
+    height: 1046px;
+}
+.line {
+    width: 404px;
+    height: 1px;
+    background-color: #ebc4c4;
+    margin : 0 0 20px 0;
+}
+
+.left {
+    margin-left: 59px;
+    width: 498px;
+}
+
+.left p {
+    margin-bottom: 20px;
+}
+
+.text1 {
+    color: var(--Text, #402C22);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.text2 {
+    color: var(--Text, #402C22);
+    font-family: Optima;
+    font-size: 63px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 106%; 
+    letter-spacing: -1.26px;
+}
+
+.select {
+    display: flex;
+    justify-content: space-between;
+    width: 403px;
+}
+
+.text3 {
+    color: var(--Text, #402C22);
+    font-family: "Optima nova LT Pro";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 122%; /* 26.84px */
+    letter-spacing: -0.44px;
+}
+
+.text4 {
+    color: var(--Text, #402C22);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23px; 
+    opacity: 0.8;
+    width: 402px;
+}
+
+.center{
+    margin: 0 16px 0 0;
+}
+
+.center .img1 {
+    width: 764px;
+    height: 851px;
+    flex-shrink: 0;
+    background: url(/section2/img/img1.jpg) center / cover no-repeat;
+}
+
+.img2 {
+    width: 553px;
+    height: 551px;
+    flex-shrink: 0;
+    background: url(/section2/img/img2.jpg) lightgray 50% / cover no-repeat;
+    }
