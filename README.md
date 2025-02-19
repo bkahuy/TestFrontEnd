@@ -10,7 +10,7 @@
 
 ### Section 3
 
-<img src="/KetQua/ss1.png" alt="SS3" />
+<img src="/KetQua/ss3.png" alt="SS3" />
 
 
 
