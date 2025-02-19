@@ -168,7 +168,7 @@
     align-items: center;
     gap: 8px;
     border-radius: 56px;
-    background: var(--Button-Primary-BG, #827C6C);
+    background: var(--Button-Primary-BG, #827c6c);
     position: absolute;
 }
 
